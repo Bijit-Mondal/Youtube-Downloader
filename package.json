@@ -1,0 +1,27 @@
+{
+  "name": "ytdl",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+},
+  "devDependencies": {
+  "cors": "^2.8.5",
+"express": "^4.17.1",
+"ytdl-core": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMondal-dev/eu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BMondal-dev/eu/issues"
+  },
+  "homepage": "https://github.com/BMondal-dev/eu#readme",
+  "description": ""
+}
